@@ -1,0 +1,6 @@
+building permits - https://data.nashville.gov/Licenses-Permits/Building-Permits-Issued/3h5w-q8b7
+
+possibly:
+zip codes - https://data.nashville.gov/General-Government/Zip-Codes-GIS-/u7r5-bpku
+council districts - https://data.nashville.gov/General-Government/Council-District-Outlines-GIS-/m4q4-q7tc
+neighborhoods - https://data.nashville.gov/Metro-Government/Neighborhood-Association-Boundaries-GIS-/qytv-2cu8
